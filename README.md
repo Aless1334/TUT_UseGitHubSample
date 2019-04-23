@@ -1,1 +1,3 @@
 # TUT_UseGitHubSample
+
+TUTGPや他のグループにおいて、GitHubを全く使ったことのない人向けの講習に用いるリポジトリです。
